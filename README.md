@@ -1,23 +1,22 @@
 <h1 align="center"> Hi, I'm Oleksandr</h1>
 
 <p align="center">
-   .NET / WPF developer | MVVM pattern enthusiast | Open to collaboration
+   C#/.NET developer
 </p>
 
 ---
 
 ## About Me
 
--  I'm a developer focusing on desktop applications with WPF using the MVVM architecture
+-  I'm a developer focusing on
 -  Passionate about writing clean, maintainable code and building real-world utility apps
 -  Currently expanding skills in APIs, databases, and UI/UX polish
--  Based in Ukraine 🇺🇦
 
 ---
 
 ## Tech Stack
 
--  **Languages:** C#, XAML
+-  **Languages:** C#
 -  **Frameworks:** .NET 6+, WPF
 -  **Architecture:** MVVM
 -  **Tools:** Visual Studio, Git, GitHub, REST API, Entity Framework
