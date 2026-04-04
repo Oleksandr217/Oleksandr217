@@ -1,26 +1,25 @@
 <h1 align="center"> Hi, I'm Oleksandr</h1>
 
 <p align="center">
-   C#/.NET developer
+  <strong>C# / .NET Developer | Software Engineering Student</strong>
 </p>
 
 ---
 
-## About Me
-
--  I'm a developer focusing on
--  Passionate about writing clean, maintainable code and building real-world utility apps
--  Currently expanding skills in APIs, databases, and UI/UX polish
+### 👤 About Me
+- 🎓 Finalizing my degree in **Software Engineering**.
+- 💻 Specialized in building robust applications using **WPF** and **ASP.NET Core**.
+- 🛠️ Passionate about **clean code (SOLID)**, project architecture, and performance optimization.
+- 🚀 Currently focusing on deep-diving into **Microservices**, **Docker**, and **Web API** design.
 
 ---
 
-## Tech Stack
-
--  **Languages:** C#
--  **Frameworks:** .NET 6+, WPF
--  **Architecture:** MVVM
--  **Tools:** Visual Studio, Git, GitHub, REST API, Entity Framework
--  **Database:** SQLite
+### 🛠 Tech Stack
+- **Languages:** C#, SQL, HTML/CSS
+- **Frameworks:** .NET 6+, ASP.NET Core, WPF
+- **Architecture & Patterns:** MVVM, MVC, REST API
+- **Data:** Entity Framework Core, PostgreSQL, SQLite
+- **Tools & DevOps:** Docker, Git/GitHub, Visual Studio, JMeter (Load Testing)
 
 <!--
 **Oleksandr217/Oleksandr217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
