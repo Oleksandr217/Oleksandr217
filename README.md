@@ -21,6 +21,7 @@
 - **Data:** Entity Framework Core, PostgreSQL, SQLite
 - **Tools & DevOps:** Docker, Git/GitHub, Visual Studio, JMeter (Load Testing)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr217&show_icons=true&theme=tokyonight)
 <!--
 **Oleksandr217/Oleksandr217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
